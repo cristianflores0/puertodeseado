@@ -1,5 +1,5 @@
 import { FaMapMarkerAlt, FaWhatsapp, FaClock } from 'react-icons/fa';
-import './Footer.css'; // Import the CSS file
+import './footer.css'; // Import the CSS file
 
 const Footer = () => {
   return (
